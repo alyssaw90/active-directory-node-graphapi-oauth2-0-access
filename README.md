@@ -1,7 +1,7 @@
 ---
 services: active-directory
 platforms: nodejs
-author: danielxu-msft
+author: msonecode
 ---
 
 # Node.js App-Only sample for Microsoft Graph
